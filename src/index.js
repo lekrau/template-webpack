@@ -1,3 +1,3 @@
 import "./styles.css";
 
-console.log("Todo list");
+console.log("Webpack Template");
